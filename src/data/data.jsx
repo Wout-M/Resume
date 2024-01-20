@@ -5,7 +5,7 @@ import GlobeIcon from "../components/icons/GlobeIcon";
 
 export const resume_data = {
     name: "Wout Mergaerts",
-    description: ".NET Developer focused on making fun projects with attention to detail",
+    description: ".NET Developer focused on making fun projects",
     about: "I've been interested in programming and tinkering since childhood, making Java mods for Minecraft and creating projects with an Arduino. This got me into volunteering with CoderDojo in high school and going for an IT degree in college. Since 2020 I've been working as a .NET developer while making fun projects with .NET or React on the side.",
     image: "https://avatars.githubusercontent.com/u/38492330?v=4",
     links: [
