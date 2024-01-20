@@ -1,0 +1,13 @@
+#root {
+  max-width: 42rem;
+  margin: auto;
+  padding: 2rem;
+}
+
+.Consolas {
+  font-family: Consolas;
+}
+
+.Line-1 {
+  line-height: var(--line-height-1) !important;
+}
