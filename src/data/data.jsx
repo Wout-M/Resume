@@ -77,6 +77,11 @@ export const resume_data = {
     ],
     certificates: [
         {
+            name: "Building Mobile Apps with .NET MAUI",
+            year: "2024",
+            location: "U2U"
+        },
+        {
             name: "AI-102: Azure AI Engineer Associate",
             year: "2022",
             location: "Microsoft"
@@ -106,6 +111,7 @@ export const resume_data = {
             area: "Web",
             skills: [
                 "Blazor",
+                "MAUI",
                 "React",
                 "JavaScript",
                 "HTML5",
@@ -115,7 +121,7 @@ export const resume_data = {
         {
             area: "Others",
             skills: [
-                "Devops",
+                "Git",
                 "CI/CD Pipelines",
                 "Docker",
                 "Windows",
